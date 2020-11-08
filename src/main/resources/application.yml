@@ -1,0 +1,19 @@
+
+##nohome
+#balancesDirectory: "/home/zem/mutuco/data/balances"
+#generalInformationDirectory: "/home/zem/mutuco/data/general-information"
+#quotesDirectory: "/home/zem/mutuco/data/quotes"
+
+
+#home
+balancesDirectory: "/home/zembrzuski/labs/mutuco-data/balances"
+generalInformationDirectory: "/home/zembrzuski/labs/mutuco-data/general-information"
+quotesDirectory: "/home/zembrzuski/labs/mutuco-data/quotes"
+
+
+
+spring.output.ansi.enabled: always
+
+spring:
+  main:
+    allow-bean-definition-overriding: true
